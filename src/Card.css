@@ -1,0 +1,15 @@
+.card{
+    background-color:rgb(132, 246, 246);
+    width: 180px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    border-radius: 10px;
+    border: solid 2px;
+    font-family: sans-serif;
+    font-size: larger;
+    margin-left: 14px;
+
+  };
+
